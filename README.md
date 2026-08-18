@@ -1,0 +1,1 @@
+Product: An e-commerce shopping application where thousands of customers write product reviews daily. Currently, the product team manually reads reviews to understand which product features (battery, camera, screen, price, delivery, etc.) customers are talking about — this doesn't scale as review volume grows, and insights come too late for quick decision-making.
